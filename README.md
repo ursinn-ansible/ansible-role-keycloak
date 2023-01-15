@@ -1,7 +1,9 @@
-# ansible-role-keycloak
+# Ansible Role - Keycloak
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/ursinn/ansible-role-keycloak?logo=github&style=for-the-badge)](https://github.com/ursinn/ansible-role-keycloak/commits)
 [![License](https://img.shields.io/github/license/ursinn/ansible-role-keycloak?style=for-the-badge)](https://github.com/ursinn/ansible-role-keycloak/blob/main/LICENSE)
+
+Docker Image: https://hub.docker.com/r/bitnami/keycloak
 
 ## License
 
